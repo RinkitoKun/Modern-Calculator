@@ -7,7 +7,7 @@ This fully functional calculator is built using **JavaScript, HTML, and CSS** an
 
 ## 🌐 Live Demo  
 
-Check out the live deployment here: [Multi-Theme Calculator](https://rinkitokun.github.io/Multi-Theme-Calculator/)  
+Check out the live deployment here: [Multi-Theme Calculator](https://rinkitokun.github.io/Modern-Calculator/)  
 
 ---
 
